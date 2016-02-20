@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D8D8C0'
+    - '#26565E'
+    - '#788890'
+    - '#48A0B0'
+    - '#000000'
+  brandStrength: 0.576858
+  lightness: 0.636632
+  rhythmicContrast: 0.761392
+  saturation: 0.979462
+cta: {}
+layout_spectrum: 0.49285
+name: EvoFusion
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.220481
