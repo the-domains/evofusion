@@ -1,7 +1,7 @@
 name: EvoFusion
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.38564
+layout_spectrum: 0.25146
+typography_spectrum: 0.51434
 title: A totally unique and different take on a Ford Fusion
 cta:
   domain: null
@@ -22,10 +22,10 @@ color:
     - '#004976'
     - '#5d2240'
     - '#b75c95'
-  brandStrength: 1
-  lightness: 0.375
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
